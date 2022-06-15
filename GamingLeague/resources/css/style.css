@@ -150,6 +150,7 @@ main {
 .faction {
     display: flex;
     align-content: space-between;
+    background-image: url(../images/marble-background.jpg);
     justify-content: center;
     border: 2px solid black;
     margin: 2rem;
